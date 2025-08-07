@@ -31,10 +31,7 @@
           }
         }
       },
-      "block_order": [
-        "heading",
-        "button"
-      ],
+      "block_order": ["heading", "button"],
       "settings": {
         "image": "shopify://shop_images/71CD-26L1nL._AC_SL1383.jpg",
         "image_overlay_opacity": 40,
@@ -78,8 +75,5 @@
       }
     }
   },
-  "order": [
-    "image_banner",
-    "featured_collection"
-  ]
+  "order": ["image_banner", "featured_collection"]
 }
